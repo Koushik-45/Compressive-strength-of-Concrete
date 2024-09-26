@@ -15,3 +15,10 @@ methods. In general, artificial intelligence systems have shown their ability to
 problems, particularly in nonlinear tasks. 
 The machine learning model can obtain a solution to highly nonlinear complex problems with better 
 efficiency by linking the provided input to the required output
+ Three 
+models were evaluated to determine their effectiveness: the Regression model, which yielded an R
+squared value of 0.55, indicating a moderate ability, the Decision Tree model, which improved 
+performance with an R-squared value of 0.75, showcasing its strength in capturing non-linear 
+relationships; and the Neural Network model, which achieved the highest accuracy with an R
+squared value of 0.87, demonstrating its superior capability in modeling complex patterns and 
+interactions within the data. These results highlight the potential of neural networks for this task. 
