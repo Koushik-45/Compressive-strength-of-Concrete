@@ -20,7 +20,7 @@ models were evaluated to determine their effectiveness: the Regression model, wh
 squared value of 0.55, indicating a moderate ability, the Decision Tree model, which improved 
 performance with an R-squared value of 0.75, showcasing its strength in capturing non-linear 
 relationships; and the Neural Network model, which achieved the highest accuracy with an R
-squared value of 0.87, demonstrating its superior capability in modeling complex patterns and 
+squared value of 0.91, demonstrating its superior capability in modeling complex patterns and 
 interactions within the data. These results highlight the potential of neural networks for this task. 
 ![WhatsApp Image 2024-08-29 at 20 02 52_1e2e88ab](https://github.com/user-attachments/assets/603d21e4-1f70-4f27-b75c-a82675ff7184)
 
